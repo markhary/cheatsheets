@@ -2,11 +2,10 @@
 
 Useful cheatsheets.
 
+* [vim-cheatsheet](vim/vim-cheatsheet.pdf)
+
 ### Contributing
 [Contributing](CONTRIBUTING.md)
-
-### Versioning
-Use [SemVer](http://semver.org/). Please see [tags on this repository](https://github.com/your/project/tags). 
 
 ### License
 [License](LICENSE.md)
