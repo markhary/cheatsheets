@@ -5,10 +5,10 @@ Useful cheatsheets.
 * [vim-cheatsheet](vim/vim-cheatsheet.pdf)
 
 ### Contributing
-[Contributing](CONTRIBUTING.md)
+You are welcome to contribute provided you accept the [Contributor Covenant Code of Conduct](CONTRIBUTING.md).
 
 ### License
-[License](LICENSE.md)
+This repository is licensed under [The Unlicense](LICENSE.md)
 
 ### Acknowledgements
 * Lance Lafontaine for his inspiring [vim-cheatsheet](https://github.com/lancelafontaine/vim-cheatsheet)
